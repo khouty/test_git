@@ -1,7 +1,23 @@
 "Dev_a : first line" 
 
 
-new update
+new update 
 line 1
 line 2
-line rab3ine
+line rab3ine 
+
+new line 
+
+sdfsdfsdfs sdfsdfsdfsdf sdds
+sdfsdf
+sdf
+dsf
+sdfsd
+fqs
+
+sdfqsdfqdsf
+qsdf
+qs
+dfqsd
+qs
+>>>>>>> feature/dev_a_2
